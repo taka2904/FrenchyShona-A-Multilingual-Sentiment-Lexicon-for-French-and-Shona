@@ -1,0 +1,23 @@
+{
+  "model": "AfriBERTa",
+  "accuracy": 0.4950980392156863,
+  "balanced_accuracy": 0.46853620726815953,
+  "macro_precision": 0.4620035787034804,
+  "macro_recall": 0.46853620726815953,
+  "macro_f1": 0.4502266261706551,
+  "weighted_precision": 0.5542347028267807,
+  "weighted_recall": 0.4950980392156863,
+  "weighted_f1": 0.5158652772543652,
+  "train_seconds": 179.53030364200004,
+  "strict_test_inference_seconds": 1.477068233999944,
+  "result_source": "part2_clean_rerun",
+  "macro_ovr_roc_auc": 0.6404520787130061,
+  "model_id": "castorini/afriberta_base",
+  "model_revision": "95b703f",
+  "selected_checkpoint_during_training": "/kaggle/working/FrenchyShona_Part2_Clean_Shona_Models_Multilingual/models/AfriBERTa_checkpoints/checkpoint-1479",
+  "final_saved_model_directory": "/kaggle/working/FrenchyShona_Part2_Clean_Shona_Models_Multilingual/models/AfriBERTa",
+  "best_validation_metric": 0.49289381149352735,
+  "device_batch_size": 16,
+  "gradient_accumulation_steps": 1,
+  "validation_inference_seconds": 1.0964179640000111
+}

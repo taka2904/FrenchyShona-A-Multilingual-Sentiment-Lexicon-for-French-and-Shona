@@ -1,0 +1,3 @@
+split,match_count_equal,token_count_equal,avg_score_equal,sum_score_equal,prediction_equal,rows
+validation,True,True,True,True,True,876
+strict_test,True,True,True,True,True,1224

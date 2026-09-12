@@ -1,0 +1,23 @@
+{
+  "model": "AfroXLMR",
+  "accuracy": 0.5620915032679739,
+  "balanced_accuracy": 0.5015024754823876,
+  "macro_precision": 0.4939922961199557,
+  "macro_recall": 0.5015024754823876,
+  "macro_f1": 0.49558323985961444,
+  "weighted_precision": 0.5757039233885293,
+  "weighted_recall": 0.5620915032679739,
+  "weighted_f1": 0.5669012477826665,
+  "train_seconds": 326.29193169200005,
+  "strict_test_inference_seconds": 1.9116511780000565,
+  "result_source": "part2_clean_rerun",
+  "macro_ovr_roc_auc": 0.6808233811274947,
+  "model_id": "Davlan/afro-xlmr-base",
+  "model_revision": "25f2729",
+  "selected_checkpoint_during_training": "/kaggle/working/FrenchyShona_Part2_Clean_Shona_Models_Multilingual/models/AfroXLMR_checkpoints/checkpoint-1972",
+  "final_saved_model_directory": "/kaggle/working/FrenchyShona_Part2_Clean_Shona_Models_Multilingual/models/AfroXLMR",
+  "best_validation_metric": 0.4960186077179287,
+  "device_batch_size": 16,
+  "gradient_accumulation_steps": 1,
+  "validation_inference_seconds": 1.4558142610000004
+}

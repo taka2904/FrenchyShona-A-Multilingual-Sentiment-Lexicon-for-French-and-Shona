@@ -1,0 +1,17 @@
+item,count
+published_train_rows_before_validity_filter,12767.0
+published_test_rows_before_validity_filter,3192.0
+published_train_rows_after_validity_filter,12767.0
+published_test_rows_after_validity_filter,3192.0
+unique_train_texts,8781.0
+unique_test_texts,2906.0
+unique_exact_train_test_overlap_texts,1681.0
+unique_lexically_normalised_overlap_texts_sensitivity,1693.0
+test_rows_also_seen_in_train,1820.0
+test_overlap_percent,57.0175
+train_label_conflict_texts,25.0
+unseen_test_label_conflict_texts,1.0
+strict_development_rows,8756.0
+build_rows_used_for_lexicon,7880.0
+validation_rows_reserved_for_thresholds,876.0
+strict_unseen_test_rows_reserved,1224.0

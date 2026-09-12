@@ -1,0 +1,11 @@
+reviewer_id;candidate_id;word;shona_level;valid_shona;meaning;sentiment;confidence;word_type;comment
+RESEARCHER;C001;vana;Native;Yes;Children;POS;High;Noun;
+RESEARCHER;C002;propertybookzw;Native;No;property website;Context-dependent;High;Name;
+RESEARCHER;C003;uyu;Native;Yes;This;NEU;High;Pronoun;
+RESEARCHER;C004;yekuroja;Native;Yes;To Rent;NEU;High;Adjective;
+RESEARCHER;C005;redmarketsunday;Native;No;Its an event ;Context-dependent;High;Name;
+RESEARCHER;C006;yekurara;Native;Yes;For Sleeping;NEU;High;Verb;
+RESEARCHER;C007;kutengeswa;Native;Yes;To Sell;NEU;High;Verb;
+RESEARCHER;C008;ndinoda;Native;Yes;I want;POS;High;Verb;
+RESEARCHER;C009;imi;Native;Yes;You;NEU;High;Pronoun;
+RESEARCHER;C010;imimi;Native;Yes;You;NEU;High;Pronoun;

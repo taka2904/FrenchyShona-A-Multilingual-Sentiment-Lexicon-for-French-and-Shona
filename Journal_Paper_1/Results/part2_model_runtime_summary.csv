@@ -1,0 +1,22 @@
+model,train_seconds,validation_inference_seconds,strict_test_inference_seconds,train_minutes
+Coverage-aware hybrid AfroXLMR + FrenchyShona,,,,
+Always-active ablation AfroXLMR + FrenchyShona,,,,
+AfroXLMR,326.29193169200005,1.4558142610000004,1.9116511780000565,5.438198861533334
+Coverage-aware hybrid Ensemble AfroXLMR AfriBERTa + FrenchyShona,,,,
+Coverage-aware hybrid Ensemble AfroLM AfroXLMR AfriBERTa + FrenchyShona,,,,
+Always-active ablation Ensemble AfroXLMR AfriBERTa + FrenchyShona,,,,
+Ensemble AfroLM AfroXLMR AfriBERTa,,,,
+Always-active ablation Ensemble AfroLM AfroXLMR AfriBERTa + FrenchyShona,,,,
+Ensemble AfroXLMR AfriBERTa,,,,
+Coverage-aware hybrid AfriBERTa + FrenchyShona,,,,
+Always-active ablation AfriBERTa + FrenchyShona,,,,
+TF-IDF Logistic Regression,3.802621584000008,,0.0914130289999946,0.06337702640000013
+AfriBERTa,179.53030364200004,1.0964179640000111,1.477068233999944,2.9921717273666673
+Always-active ablation AfroLM + FrenchyShona,,,,
+Coverage-aware hybrid AfroLM + FrenchyShona,,,,
+AfroLM,316.033177089,1.4469226899999512,1.994068370999912,5.2672196181499995
+TF-IDF Linear SVM,0.4041477050000139,,0.0322606309999855,0.006735795083333565
+TF-IDF Multinomial Naive Bayes,0.2591407630000049,,0.0257744799999954,0.004319012716666748
+FrenchyShona V2 calibrated average,0.0,,,0.0
+FrenchyShona V2 sign aggregate,0.0,,,0.0
+Majority baseline,,,,

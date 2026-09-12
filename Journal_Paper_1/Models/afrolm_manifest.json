@@ -1,0 +1,23 @@
+{
+  "model": "AfroLM",
+  "accuracy": 0.5049019607843137,
+  "balanced_accuracy": 0.44795137259041845,
+  "macro_precision": 0.4446301304334603,
+  "macro_recall": 0.44795137259041845,
+  "macro_f1": 0.4420514725425022,
+  "weighted_precision": 0.5320969668715,
+  "weighted_recall": 0.5049019607843137,
+  "weighted_f1": 0.5163918769892218,
+  "train_seconds": 316.033177089,
+  "strict_test_inference_seconds": 1.994068370999912,
+  "result_source": "part2_clean_rerun",
+  "macro_ovr_roc_auc": 0.6303130214643474,
+  "model_id": "bonadossou/afrolm_active_learning",
+  "model_revision": "c726c59",
+  "selected_checkpoint_during_training": "/kaggle/working/FrenchyShona_Part2_Clean_Shona_Models_Multilingual/models/AfroLM_checkpoints/checkpoint-1479",
+  "final_saved_model_directory": "/kaggle/working/FrenchyShona_Part2_Clean_Shona_Models_Multilingual/models/AfroLM",
+  "best_validation_metric": 0.4603029081199779,
+  "device_batch_size": 16,
+  "gradient_accumulation_steps": 1,
+  "validation_inference_seconds": 1.4469226899999512
+}

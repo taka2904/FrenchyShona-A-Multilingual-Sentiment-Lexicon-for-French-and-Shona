@@ -1,0 +1,4 @@
+model,pretrained_identifier,revision,selected_checkpoint,optimizer,lr_scheduler,warmup_steps,warmup_ratio,learning_rate,weight_decay,adam_beta1,adam_beta2,adam_epsilon,max_grad_norm,epochs,batch_size,gradient_accumulation_steps,fp16,seed,data_seed
+AfroLM,bonadossou/afrolm_active_learning,c726c59,"epoch 3, step 1479",adamw_torch_fused,linear,0,0.0,2e-05,0.01,0.9,0.999,1e-08,1.0,4,16,1,True,42,42
+AfroXLMR,Davlan/afro-xlmr-base,25f2729,"epoch 4, step 1972",adamw_torch_fused,linear,0,0.0,2e-05,0.01,0.9,0.999,1e-08,1.0,4,16,1,True,42,42
+AfriBERTa,castorini/afriberta_base,95b703f,"epoch 3, step 1479",adamw_torch_fused,linear,0,0.0,2e-05,0.01,0.9,0.999,1e-08,1.0,4,16,1,True,42,42

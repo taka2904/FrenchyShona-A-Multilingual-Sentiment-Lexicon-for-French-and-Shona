@@ -1,0 +1,2 @@
+model,context_prompt_version,assessed_candidates,complete_assessments,api_calls,cache_hits,data_source
+gpt-5-mini,candidate_context_assessment_v2_complete,10,10,2,0,build_split_only

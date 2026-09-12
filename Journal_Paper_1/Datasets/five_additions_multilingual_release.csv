@@ -1,0 +1,6 @@
+CILUBA,French,Score,Sentiment,Nature,English,Zulu,Afrikaans,Sepedi,Xhosa,Shona,expanded_shona_class,expanded_shona
+mwana,enfants,-4.0,Negative,Nom,children,izingane,kinders,bana,abantwana,vana,train_only_single_researcher_interim_addition,vana
+Kutumbisha,à louer,8.0,Positive,Adjectif,for rent,ngokuqashwa,te huur,bakeng sa rente,yeyokuqesha,yekuroja,train_only_single_researcher_interim_addition,yekuroja
+kulala,dormir,7.0,Positive,Verbe,to sleep,ukulala,om te slaap,go robala,ukulala,yekurara,train_only_single_researcher_interim_addition,yekurara
+kupana,à vendre,9.0,Positive,Verbe,for sale,iyathengiswa,te koop,go rekišwa,kwintengiso,kutengeswa,train_only_single_researcher_interim_addition,kutengeswa
+dinanga,j'aime,7.0,Positive,Verbe,i love,ngiyathanda,ek is lief vir,ke rata,ndiyathanda,ndinoda,train_only_single_researcher_interim_addition,ndinoda

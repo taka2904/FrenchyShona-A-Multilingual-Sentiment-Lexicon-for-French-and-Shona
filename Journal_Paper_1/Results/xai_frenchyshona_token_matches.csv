@@ -1,0 +1,15 @@
+example_index,example_type,token,score,average_lexical_score,lexical_prediction
+2,correct_NEG,,,0.0,NEU
+89,correct_NEU,,,0.0,NEU
+7,correct_POS,simende,-6.0,-6.0,NEG
+0,hybrid_misclassified,musiyano,1.5,0.8333333333333334,NEG
+0,hybrid_misclassified,kana,0.0,0.8333333333333334,NEG
+0,hybrid_misclassified,kuvaka,1.0,0.8333333333333334,NEG
+9,hybrid_helped,munhu,1.0,1.2,NEG
+9,hybrid_helped,kudya,2.5,1.2,NEG
+9,hybrid_helped,kudya,2.5,1.2,NEG
+9,hybrid_helped,ipapo,0.0,1.2,NEG
+9,hybrid_helped,uye,0.0,1.2,NEG
+1,hybrid_hurt,huswa,1.5,3.3333333333333335,POS
+1,hybrid_hurt,kuti,6.5,3.3333333333333335,POS
+1,hybrid_hurt,kusvika,2.0,3.3333333333333335,POS

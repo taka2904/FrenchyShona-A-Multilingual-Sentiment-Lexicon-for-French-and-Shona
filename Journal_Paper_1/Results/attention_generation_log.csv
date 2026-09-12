@@ -1,0 +1,4 @@
+model,status,tokens
+AfroLM,complete,26
+AfroXLMR,complete,25
+AfriBERTa,complete,22

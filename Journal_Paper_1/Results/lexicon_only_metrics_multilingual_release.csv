@@ -1,0 +1,3 @@
+model,accuracy,macro_f1,weighted_f1,coverage,strict_test_rows,validation_selected_neg_threshold,validation_selected_pos_threshold
+FrenchyShona V2 sign aggregate,0.369281045751634,0.269717466643914,0.29619266473961664,0.9093137254901961,1224,2.5,3.0
+FrenchyShona V2 calibrated average,0.440359477124183,0.36634036461622665,0.44085633958859105,0.9093137254901961,1224,2.5,3.0

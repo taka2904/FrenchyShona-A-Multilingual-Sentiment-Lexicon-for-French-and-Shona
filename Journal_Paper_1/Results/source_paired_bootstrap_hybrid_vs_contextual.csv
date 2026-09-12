@@ -1,0 +1,6 @@
+observed_delta_macro_f1,ci_low,ci_high,excludes_zero,replicates,base_system,hybrid_system,selected_alpha
+0.007297825900517918,-0.0017108104169768212,0.01595493325267345,False,2000,AfroLM,Coverage-aware hybrid AfroLM + FrenchyShona,0.95
+0.012385585107468622,-0.007683402322078801,0.032857882187039486,False,2000,AfroXLMR,Coverage-aware hybrid AfroXLMR + FrenchyShona,0.75
+0.006101117004798429,-0.004848122294465905,0.01649796252133674,False,2000,AfriBERTa,Coverage-aware hybrid AfriBERTa + FrenchyShona,0.9
+0.009334802483708438,-0.013481802551652948,0.031694229202951604,False,2000,Ensemble_AfroXLMR_AfriBERTa,Coverage-aware hybrid Ensemble AfroXLMR AfriBERTa + FrenchyShona,0.75
+0.002399995169825253,-0.014695842958405845,0.018438657721112466,False,2000,Ensemble_AfroLM_AfroXLMR_AfriBERTa,Coverage-aware hybrid Ensemble AfroLM AfroXLMR AfriBERTa + FrenchyShona,0.9

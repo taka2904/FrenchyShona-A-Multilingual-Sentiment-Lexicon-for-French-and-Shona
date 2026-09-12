@@ -1,0 +1,10 @@
+stage,count
+Build tweets,7880
+Token occurrences,97694
+Raw unique tokens,29233
+Deterministic likely-Shona candidates,3123
+Contextual recovery pool,400
+Contextually recovered Shona content tokens,32
+Combined likely-Shona candidates,3155
+Already represented in clean base,546
+Missing from clean base,2609

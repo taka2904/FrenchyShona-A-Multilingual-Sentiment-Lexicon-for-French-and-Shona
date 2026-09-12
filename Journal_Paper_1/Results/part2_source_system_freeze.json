@@ -1,0 +1,49 @@
+{
+  "class_order": [
+    "NEG",
+    "NEU",
+    "POS"
+  ],
+  "model_specs": {
+    "AfroLM": "bonadossou/afrolm_active_learning",
+    "AfroXLMR": "Davlan/afro-xlmr-base",
+    "AfriBERTa": "castorini/afriberta_base"
+  },
+  "ensemble_two": [
+    "AfroXLMR",
+    "AfriBERTa"
+  ],
+  "ensemble_three": [
+    "AfroLM",
+    "AfroXLMR",
+    "AfriBERTa"
+  ],
+  "primary_hybrid_base": "Ensemble_AfroLM_AfroXLMR_AfriBERTa",
+  "primary_hybrid_alpha": 0.9,
+  "primary_hybrid_rule": "coverage_aware",
+  "lexical_negative_threshold": 2.5,
+  "lexical_positive_threshold": 3.0,
+  "frozen_lexicon_sha256": "29b12603ce20909cec029c2c9da83feb8263450e47b3ca0f7f2896bd1c66fc8f",
+  "canonical_multilingual_release_sha256": "29b12603ce20909cec029c2c9da83feb8263450e47b3ca0f7f2896bd1c66fc8f",
+  "canonical_multilingual_release_core13_sha256": "b1137eebc77b9dc75042e8b00109198e55808a1f43d8b2e975a7badb25ea64d9",
+  "experimental_v7_4_frozen_lexicon_sha256": "0cbfba6ea4c3e1bd84bc1fed31c364ab899e9c6a8e68314e10825bc070e74380",
+  "source_lexical_fields": [
+    "Shona",
+    "expanded_shona"
+  ],
+  "transfer_multilingual_fields": [
+    "CILUBA",
+    "French",
+    "English",
+    "Zulu",
+    "Afrikaans",
+    "Sepedi",
+    "Xhosa",
+    "Shona",
+    "expanded_shona"
+  ],
+  "provisional_ciluba_policy": "exclude provisional Part 1B Ciluba forms from the primary transfer inventory; include them only in a named sensitivity analysis",
+  "build_sha256": "a3d9ca14798593ba8391af9a9a6ac9f5d55303ef174e5bd19d6dab96b9be8b24",
+  "validation_sha256": "9a7a31c00cbb1bfdd369e6d06c1e68980b7faa5174884a9b88e70fec7c9f249c",
+  "strict_test_sha256": "055e52cded861127a566a93662f64ac5e8b65014437a79524afa3a4881ecc606"
+}

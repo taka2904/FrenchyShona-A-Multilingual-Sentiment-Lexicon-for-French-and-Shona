@@ -1,0 +1,4 @@
+model,model_id,model_revision,files,total_bytes,config_sha256
+AfroLM,bonadossou/afrolm_active_learning,c726c59,5,1069880750,a1990552b370063e6726488eb496bc44b0e1cda56594dabec8d739f3ab060104
+AfroXLMR,Davlan/afro-xlmr-base,25f2729,5,1128980763,a51e7bed5602f6506b1a8bb9f81300a301939bfeb0311e6d54bed03ca7ee2864
+AfriBERTa,castorini/afriberta_base,95b703f,5,450512425,ad6b8efc062b20fae7a5af0dbdf0e39f13149256736eea17030f580227791c57

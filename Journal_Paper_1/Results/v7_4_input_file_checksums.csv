@@ -1,0 +1,6 @@
+role,path,sha256
+ShonaSenti train,/kaggle/input/datasets/takachats/shonasenti/traindata1.2.xlsx,14d4cd56c2e63c782fe681940adc23ef9d57951c7ff9af5171c729239e637378
+ShonaSenti test,/kaggle/input/datasets/takachats/shonasenti/testdata1.2.xlsx,bf48a2521791d06e65d1a08b963ad3b07b5b34f90ba73f33977156149c24c000
+"6,632-row source lexicon",/kaggle/input/datasets/takachats/my-vesion-of-the-lexicon/a2_expanded_shona_annotated.csv,93ff1690b99b06a64814c6ad6bfce29c9abdb6b1ed8d00365495ddd96330462b
+Shona_gt audit,/kaggle/input/datasets/takachats/my-vesion-of-the-lexicon/a2_with_shona_gt (1).csv,824ccdd0c9b7de7f28e4f40858f458bcf2349a2e5bc9f3c94c063449646f355b
+single-researcher interim review,/kaggle/input/datasets/takachats/review/single_researcher_review.csv,a40a7adfb6a97dab5bafaf00ada8458d9c1ea2254adf75f8a0d39439c3aff3a6

@@ -1,0 +1,2 @@
+review_file,sha256,candidate_set_exact_match,review_precedes_contextual_comparison
+/kaggle/input/datasets/takachats/review/single_researcher_review.csv,a40a7adfb6a97dab5bafaf00ada8458d9c1ea2254adf75f8a0d39439c3aff3a6,True,True

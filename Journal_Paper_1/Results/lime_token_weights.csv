@@ -1,0 +1,105 @@
+example_index,example_type,model,gold_label,predicted_label,token,lime_weight
+2,correct_NEG,AfriBERTa,NEG,POS,WillChiff,0.24512509583662662
+2,correct_NEG,AfriBERTa,NEG,POS,sechitima,0.17458998303696477
+2,correct_NEG,AfriBERTa,NEG,POS,hura,-0.12283255020982005
+2,correct_NEG,AfriBERTa,NEG,POS,ndaverengei,-0.07464947213454802
+2,correct_NEG,AfriBERTa,NEG,POS,zhara,-0.06008134817027414
+2,correct_NEG,Coverage-aware hybrid,NEG,NEG,zhara,0.1524834758334297
+2,correct_NEG,Coverage-aware hybrid,NEG,NEG,hura,0.12816525932911985
+2,correct_NEG,Coverage-aware hybrid,NEG,NEG,WillChiff,-0.04696719700139319
+2,correct_NEG,Coverage-aware hybrid,NEG,NEG,sechitima,-0.024126134173346858
+2,correct_NEG,Coverage-aware hybrid,NEG,NEG,ndaverengei,0.020905068424623946
+89,correct_NEU,AfriBERTa,NEU,NEU,Ndingawane,-0.20216443131179723
+89,correct_NEU,AfriBERTa,NEU,NEU,muHarare,-0.17794227707606894
+89,correct_NEU,AfriBERTa,NEU,NEU,kupi,0.1279599745984918
+89,correct_NEU,AfriBERTa,NEU,NEU,nema,0.05170610001955123
+89,correct_NEU,AfriBERTa,NEU,NEU,ma,0.041543116384897806
+89,correct_NEU,AfriBERTa,NEU,NEU,easles,0.027252490280999117
+89,correct_NEU,AfriBERTa,NEU,NEU,canvases,0.01644959469747589
+89,correct_NEU,Coverage-aware hybrid,NEU,NEU,muHarare,-0.3095515676990354
+89,correct_NEU,Coverage-aware hybrid,NEU,NEU,Ndingawane,-0.10870133727101963
+89,correct_NEU,Coverage-aware hybrid,NEU,NEU,easles,0.04817187194189077
+89,correct_NEU,Coverage-aware hybrid,NEU,NEU,kupi,0.03152540575014097
+89,correct_NEU,Coverage-aware hybrid,NEU,NEU,ma,0.019244130553417744
+89,correct_NEU,Coverage-aware hybrid,NEU,NEU,canvases,-0.00598301082854445
+89,correct_NEU,Coverage-aware hybrid,NEU,NEU,nema,-0.0003729053397538299
+7,correct_POS,AfriBERTa,POS,POS,CCCLeicester,0.05438710731699536
+7,correct_POS,AfriBERTa,POS,POS,nesimbi,-0.03598381161632062
+7,correct_POS,AfriBERTa,POS,POS,neChinese,0.028470567506059658
+7,correct_POS,AfriBERTa,POS,POS,simende,-0.02833586615904572
+7,correct_POS,AfriBERTa,POS,POS,mining,-0.02769873714508468
+7,correct_POS,AfriBERTa,POS,POS,muHarare,0.026122464002812443
+7,correct_POS,AfriBERTa,POS,POS,processing,0.02349879407815177
+7,correct_POS,AfriBERTa,POS,POS,kuPortland,0.02311955043930566
+7,correct_POS,AfriBERTa,POS,POS,kuGweru,-0.01333285358580152
+7,correct_POS,AfriBERTa,POS,POS,kuGoromonzi,-0.012485013054949977
+7,correct_POS,Coverage-aware hybrid,POS,POS,simende,-0.07632596194336076
+7,correct_POS,Coverage-aware hybrid,POS,POS,muHarare,0.03314159987990396
+7,correct_POS,Coverage-aware hybrid,POS,POS,CCCLeicester,0.030094351475434725
+7,correct_POS,Coverage-aware hybrid,POS,POS,plant,0.022201025712169108
+7,correct_POS,Coverage-aware hybrid,POS,POS,kuLafarge,-0.021924166128299383
+7,correct_POS,Coverage-aware hybrid,POS,POS,iron,-0.01302670785595214
+7,correct_POS,Coverage-aware hybrid,POS,POS,nesimbi,0.011834286104080334
+7,correct_POS,Coverage-aware hybrid,POS,POS,kuPortland,0.01149760423445583
+7,correct_POS,Coverage-aware hybrid,POS,POS,inogadzira,0.007823580017434004
+7,correct_POS,Coverage-aware hybrid,POS,POS,platinum,0.00750996131374612
+0,hybrid_misclassified,AfriBERTa,NEU,NEG,nevarungu,0.10883409279253972
+0,hybrid_misclassified,AfriBERTa,NEU,NEG,INTERNATIONAL,-0.06912021124926193
+0,hybrid_misclassified,AfriBERTa,NEU,NEG,Int,-0.06328493561785646
+0,hybrid_misclassified,AfriBERTa,NEU,NEG,wakafanana,0.04762105823069458
+0,hybrid_misclassified,AfriBERTa,NEU,NEG,Mnangagwa,0.04290169205693913
+0,hybrid_misclassified,AfriBERTa,NEU,NEG,concerned,0.04187471038570326
+0,hybrid_misclassified,AfriBERTa,NEU,NEG,nemazita,-0.041625976413043754
+0,hybrid_misclassified,AfriBERTa,NEU,NEG,kuvaka,0.03913819214420716
+0,hybrid_misclassified,AfriBERTa,NEU,NEG,ProfJNMoyo,0.03808862715959816
+0,hybrid_misclassified,AfriBERTa,NEU,NEG,Wadii,0.03697458313677714
+0,hybrid_misclassified,Coverage-aware hybrid,NEU,NEG,nevarungu,0.05571369775461303
+0,hybrid_misclassified,Coverage-aware hybrid,NEU,NEG,pamutemo,0.040998462455591286
+0,hybrid_misclassified,Coverage-aware hybrid,NEU,NEG,concerned,0.040300854872176606
+0,hybrid_misclassified,Coverage-aware hybrid,NEU,NEG,zvivakwa,0.03406726744015995
+0,hybrid_misclassified,Coverage-aware hybrid,NEU,NEG,ProfJNMoyo,0.028860337409159265
+0,hybrid_misclassified,Coverage-aware hybrid,NEU,NEG,INTERNATIONAL,-0.02834329569421445
+0,hybrid_misclassified,Coverage-aware hybrid,NEU,NEG,nelsonchamisa,0.025994782027089495
+0,hybrid_misclassified,Coverage-aware hybrid,NEU,NEG,wakafanana,0.025979639792054896
+0,hybrid_misclassified,Coverage-aware hybrid,NEU,NEG,kuvaka,0.023553305207626597
+0,hybrid_misclassified,Coverage-aware hybrid,NEU,NEG,Mnangagwa,0.020273232510911142
+9,hybrid_helped,AfriBERTa,NEG,NEU,Veduwe,-0.19234184551264297
+9,hybrid_helped,AfriBERTa,NEG,NEU,kudya,0.15535666597702358
+9,hybrid_helped,AfriBERTa,NEG,NEU,kubva,0.1422146428221079
+9,hybrid_helped,AfriBERTa,NEG,NEU,kundigadzirira,-0.07431715649705342
+9,hybrid_helped,AfriBERTa,NEG,NEU,29,0.06582057176211593
+9,hybrid_helped,AfriBERTa,NEG,NEU,160km,-0.06366399876813816
+9,hybrid_helped,AfriBERTa,NEG,NEU,11,0.04224109000471525
+9,hybrid_helped,AfriBERTa,NEG,NEU,uye,-0.036067523627545776
+9,hybrid_helped,AfriBERTa,NEG,NEU,Munhu,0.020245060592506355
+9,hybrid_helped,AfriBERTa,NEG,NEU,ari,0.01645984712122487
+9,hybrid_helped,Coverage-aware hybrid,NEG,NEG,kudya,0.07953872242940624
+9,hybrid_helped,Coverage-aware hybrid,NEG,NEG,160km,-0.06472472371147334
+9,hybrid_helped,Coverage-aware hybrid,NEG,NEG,kundigadzirira,0.05566790183096036
+9,hybrid_helped,Coverage-aware hybrid,NEG,NEG,Munhu,0.047190617108947897
+9,hybrid_helped,Coverage-aware hybrid,NEG,NEG,11,-0.04017384861289288
+9,hybrid_helped,Coverage-aware hybrid,NEG,NEG,Veduwe,0.03920174959182308
+9,hybrid_helped,Coverage-aware hybrid,NEG,NEG,ipapo,0.012793541747362107
+9,hybrid_helped,Coverage-aware hybrid,NEG,NEG,uye,-0.00889499514005531
+9,hybrid_helped,Coverage-aware hybrid,NEG,NEG,29,0.008766340066127708
+9,hybrid_helped,Coverage-aware hybrid,NEG,NEG,kubva,0.005815028385557892
+1,hybrid_hurt,AfriBERTa,NEG,NEG,ifight,0.14334656746820185
+1,hybrid_hurt,AfriBERTa,NEG,NEG,hwafa,0.13074324826926156
+1,hybrid_hurt,AfriBERTa,NEG,NEG,huswa,0.12176024378445052
+1,hybrid_hurt,AfriBERTa,NEG,NEG,ndihwo,-0.11988671974207887
+1,hybrid_hurt,AfriBERTa,NEG,NEG,shokombereka1,0.11140790352611032
+1,hybrid_hurt,AfriBERTa,NEG,NEG,hunongotsikwa,0.0947558324717893
+1,hybrid_hurt,AfriBERTa,NEG,NEG,So,-0.07039622541773378
+1,hybrid_hurt,AfriBERTa,NEG,NEG,hukatarira,0.05346569351051301
+1,hybrid_hurt,AfriBERTa,NEG,NEG,include,-0.044755644849113485
+1,hybrid_hurt,AfriBERTa,NEG,NEG,it,-0.04107768345330001
+1,hybrid_hurt,Coverage-aware hybrid,NEG,POS,kusvika,0.08250829166322596
+1,hybrid_hurt,Coverage-aware hybrid,NEG,POS,ndihwo,0.07666965354195339
+1,hybrid_hurt,Coverage-aware hybrid,NEG,POS,shokombereka1,-0.07276033408772399
+1,hybrid_hurt,Coverage-aware hybrid,NEG,POS,hwafa,-0.06265516434220368
+1,hybrid_hurt,Coverage-aware hybrid,NEG,POS,include,0.054228665154260114
+1,hybrid_hurt,Coverage-aware hybrid,NEG,POS,everyone,0.053147678496525824
+1,hybrid_hurt,Coverage-aware hybrid,NEG,POS,huswa,-0.04630901568814168
+1,hybrid_hurt,Coverage-aware hybrid,NEG,POS,yenzou,-0.04019613839247758
+1,hybrid_hurt,Coverage-aware hybrid,NEG,POS,ifight,-0.03412786973507396
+1,hybrid_hurt,Coverage-aware hybrid,NEG,POS,So,0.03283037158778476

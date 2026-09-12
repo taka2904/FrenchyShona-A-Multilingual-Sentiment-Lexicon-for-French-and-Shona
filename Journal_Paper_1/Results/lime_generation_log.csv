@@ -1,0 +1,13 @@
+example_index,example_type,model,status
+2,correct_NEG,AfriBERTa,complete
+2,correct_NEG,Coverage-aware hybrid,complete
+89,correct_NEU,AfriBERTa,complete
+89,correct_NEU,Coverage-aware hybrid,complete
+7,correct_POS,AfriBERTa,complete
+7,correct_POS,Coverage-aware hybrid,complete
+0,hybrid_misclassified,AfriBERTa,complete
+0,hybrid_misclassified,Coverage-aware hybrid,complete
+9,hybrid_helped,AfriBERTa,complete
+9,hybrid_helped,Coverage-aware hybrid,complete
+1,hybrid_hurt,AfriBERTa,complete
+1,hybrid_hurt,Coverage-aware hybrid,complete
