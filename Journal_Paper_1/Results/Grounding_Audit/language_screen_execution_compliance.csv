@@ -1,0 +1,2 @@
+screened_forms,all_screened_have_build_document_support,minimum_document_support_all_screened,recovered_forms,stated_recovery_confidence_threshold,minimum_confidence_recovered,recovered_below_threshold,all_original_noise_reason_english_frequency
+400,True,10,32,0.7,0.7,0,True

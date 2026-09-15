@@ -1,0 +1,26 @@
+candidate_id,shona_word,final_CILUBA,source_role,source_row_1based,source_CILUBA,source_French,source_English,ciluba_form_resolves
+C001,vana,mwana,current_paper_expanded_6632,518,mwana,enfant,child,True
+C001,vana,mwana,original_frenchyluba_6963,524,mwana,enfant,,True
+C004,yekuroja,Kutumbisha,current_paper_expanded_6632,179,Kutumbisha,louer,to rent out,True
+C004,yekuroja,Kutumbisha,current_paper_expanded_6632,654,Kutumbisha,Louer,To rent out,True
+C004,yekuroja,Kutumbisha,current_paper_expanded_6632,2058,kutumbisha,louer,to rent out,True
+C004,yekuroja,Kutumbisha,original_frenchyluba_6963,179,Kutumbisha,louer,,True
+C004,yekuroja,Kutumbisha,original_frenchyluba_6963,660,Kutumbisha,Louer,,True
+C006,yekurara,kulala,current_paper_expanded_6632,3743,Kulala,Coucher,To sleep,True
+C006,yekurara,kulala,current_paper_expanded_6632,69,Kulala,Dormir,Sleep,True
+C006,yekurara,kulala,current_paper_expanded_6632,417,kulala,dormir,sleep,True
+C006,yekurara,kulala,current_paper_expanded_6632,505,kulala,dormir,sleep,True
+C006,yekurara,kulala,current_paper_expanded_6632,1508,Kulala,Dormir,Sleep,True
+C006,yekurara,kulala,current_paper_expanded_6632,1713,kulala,Dormir,Sleep,True
+C006,yekurara,kulala,current_paper_expanded_6632,2661,Kulala,Dormir,Sleep,True
+C006,yekurara,kulala,current_paper_expanded_6632,2735,Kulala,Dormir,Sleep,True
+C007,kutengeswa,kupana,current_paper_expanded_6632,864,kupana,vendre,sell,True
+C007,kutengeswa,kupana,original_frenchyluba_6963,876,kupana,vendre,,True
+C008,ndinoda,dinanga,current_paper_expanded_6632,826,dinanga,amour,love,True
+C008,ndinoda,dinanga,current_paper_expanded_6632,1247,dinanga,amour,love,True
+C008,ndinoda,dinanga,current_paper_expanded_6632,1567,Dinanga,Amour,Love,True
+C008,ndinoda,dinanga,current_paper_expanded_6632,1584,dinanga,amour,love,True
+C008,ndinoda,dinanga,current_paper_expanded_6632,1759,dinanga,Amour,Love,True
+C008,ndinoda,dinanga,current_paper_expanded_6632,2444,dinanga,Amour,Love,True
+C008,ndinoda,dinanga,current_paper_expanded_6632,2621,Dinanga,Amour,Love,True
+C008,ndinoda,dinanga,current_paper_expanded_6632,2708,Dinanga,Amour,Love,True
